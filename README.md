@@ -2,6 +2,7 @@
 
 This is a Python + PyQt6 desktop application to simulate quantum circuits. The current functionality includes:
 - A simple Qiskit-circuits-like UI with drag and drop components.
+- Arbitrary initial assignment of qubits.
 - Application of standard and custom gates.
 - Probability view of qubits.
 - Interactive 3D Bloch sphere visualization of each qubit.
